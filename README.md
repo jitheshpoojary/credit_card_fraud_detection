@@ -206,7 +206,4 @@ This helps tailor the fraud detection system to real-world business requirements
 
 **Jithesh**
 
-Aspiring Data Scientist passionate about Machine Learning, Deep Learning, NLP, and solving real-world problems using AI.
 
-- LinkedIn: *Add your LinkedIn profile*
-- GitHub: *Add your GitHub profile*
